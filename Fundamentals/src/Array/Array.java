@@ -7,7 +7,7 @@ public class Array{
     fruits[2] = "Apple";
     System.out.println(fruits[2]);
 
-    int[] numbers = new int[]{1,2,3,4,5};
+    int numbers[] = new int[]{1,2,3,4,5};
     for(var e:numbers) System.out.println(e);
 
     String[] cars = {"Toyota", "Honda", "Susuki"};

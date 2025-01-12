@@ -12,7 +12,7 @@ public class Operator {
     */
     public static void main(String[] args) {
         // Execute method
-        arithmetic();
+        arithmetic(); // กระบวนการทางคณิต
         relational();
         logical();
         bitwise();
